@@ -1,0 +1,3 @@
+﻿  10_9.cpp
+C:\Users\e4872\桌面\hw6\10_9\10_9.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  10_9.vcxproj -> C:\Users\e4872\桌面\hw6\10_9\x64\Debug\10_9.exe
